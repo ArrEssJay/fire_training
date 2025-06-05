@@ -1,2 +1,1 @@
-# fire_training
-Fire Training Notes
+These are just some work-in-progress training notes for *general purpose* volunteer firefighting. Please consult the operating procedures of the agency you represent for work practises applicable to you.
